@@ -1,4 +1,4 @@
-# Anthony Yaghi s5724039
+# Anthony Yaghi
 
 ## ML Programming Project
 
@@ -9,32 +9,6 @@
     First we want to load the data split it, then after preprocessing train the model on it. After that we will test it to see if the accuracy is what we intended and acceptable on the testing data if no we will have to reprocess the data and train again
 
 3. Dataset: CIFAR10
-
-
-### Intended learning outcomes:   
-
-    demonstrate an ability to write complex programs using a high-level programming language and deep learning frameworks 
-
-    apply various data augmentation techniques on a range of multimedia data. 
-
-    apply Test Driven Development to the design and implementation of a major software artefact informed by industry best practice. 
-
-    display proficiency in applying modern deep-learning techniques to multimedia data 
-
-    develop proficiency in setting up development environments.
-
-### How will this be assessed?
-
-    Submitting code and design for review 15 marks
-    Use and understanding of Data Visualisation techniques - 10 marks
-    Use and understating of model architecture - 15 marks
-    Use of TDD and Unit tests - 10 marks
-    Use and understanding of Deep Learning frameworks (e.g. PyTorch) - 10 marks
-    Project specific (i.e. Data Augmentation, data handling, Data Splitting, novel algorithms, Train, test and validation, Deployment, Logging, etc.)- 20 marks
-    Ethics Checklist for training data used 10 marks
-    Following NCCA Coding standards and use of GitHub 10 marks
-
-
 
 ### CIFAR
 Learning Multiple Layers of Features from Tiny Images
